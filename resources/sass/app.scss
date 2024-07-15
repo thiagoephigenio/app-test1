@@ -1,0 +1,15 @@
+.teste-sass {
+  background: blue;
+}
+
+.oi {
+
+}
+
+.circle {
+  $size: 100px;
+  width: $size;
+  height: $size;
+  border-radius: $size * 0.5;
+  &:hover { background: red; }
+}

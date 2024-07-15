@@ -1,0 +1,15 @@
+.teste-sass {
+  background: blue;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.circle:hover {
+  background: red;
+}
+h1 {
+  color: blue;
+}
